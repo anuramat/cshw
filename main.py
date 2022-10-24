@@ -1,5 +1,3 @@
-from math import sin
-
 class important_business:
     def __init__(self, name):
         self.name = name
