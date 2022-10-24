@@ -1,5 +1,3 @@
-from math import sin
-
 class important_business:
     def __init__(self, name):
         self.name = name
@@ -12,7 +10,7 @@ def printer(h: int, w: int):
         print(''.join(['8' if (i+j)%2==0 else '-' for j in range(w)]))
 
 def main():
-    print('this is a really complex piece of software')
+    print('this is a really simple piece of software')
     printer(40, 70)
 
 
