@@ -13,7 +13,7 @@ def printer(h: int, w: int):
 
 def main():
     print('this is a really complex piece of software')
-    printer(40, 80)
+    printer(40, 70)
 
 
 if __name__ == '__main__':
